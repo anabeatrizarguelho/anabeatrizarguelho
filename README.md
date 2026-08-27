@@ -117,7 +117,7 @@
 </td></tr></table>   
 <br>
 
-## Certificações
+## Certifications
 
 <p align="left">
   <a href="https://www.credly.com/go/a9XWrXu8" target="_blank">
