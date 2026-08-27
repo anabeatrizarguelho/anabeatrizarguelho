@@ -33,7 +33,7 @@
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
     </a>
     <a href="#" target="_blank">
-    <img src=https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
     </a>
     
 </div>
@@ -88,7 +88,7 @@
         <img style="margin: 10px" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" />
     </a>
 </div>
-</td><td valign="top" width="33%">
+</td><td align="top" width="33%">
 
 ### DevTools & Tools
 <div align="center">
@@ -117,14 +117,14 @@
 </td></tr></table>   
 <br>
 
-## 📜 Certificações
+## Certificações
 
 <p align="left">
   <a href="https://www.credly.com/go/a9XWrXu8" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100" alt="AWS Academy Graduate - Cloud Foundations - Training Badge">
+    <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="200" alt="AWS Academy Graduate - Cloud Foundations - Training Badge">
   </a>
   <a href="https://www.credly.com/badges/72448a49-0fb9-4559-9663-f3701115e350/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="100" alt="Google AI Essentials V1">
+    <img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="200" alt="Google AI Essentials V1">
   </a>
 </p>
 
